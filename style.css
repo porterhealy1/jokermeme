@@ -1,0 +1,22 @@
+.everything {
+  position: relative;
+  text-align: center;
+  color: black;
+  font-family: 'Anton', sans-serif;
+}
+
+.bottom-text {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  bottom: 33%;
+  left: 33.5%;
+  font-size:20px;
+}
+
+.top-text {
+  position:absolute;
+  transform: translate(-50%, -50%);
+  top: 50px;
+  left: 625px;
+  font-size:20px;
+}
